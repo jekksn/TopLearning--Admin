@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ronit.toplearning.AdminClasses.Fragment_Admin_Lehrerprofil">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/abc"
+        android:layout_marginRight="51dp"
+        android:layout_marginEnd="51dp"
+        android:layout_marginTop="58dp"
+        android:id="@+id/imageView7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Lehrer Vorname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="31dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="22dp"
+        android:id="@+id/textView36" />
+
+    <TextView
+        android:text="Lehrer Nachname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView36"
+        android:layout_alignLeft="@+id/textView36"
+        android:layout_alignStart="@+id/textView36"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView46" />
+
+    <TextView
+        android:text="Adresse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView7"
+        android:layout_alignLeft="@+id/textView46"
+        android:layout_alignStart="@+id/textView46"
+        android:layout_marginBottom="14dp"
+        android:id="@+id/textView47" />
+
+    <TextView
+        android:text="Fächer "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/textView47"
+        android:layout_alignStart="@+id/textView47"
+        android:id="@+id/textView48" />
+
+    <TextView
+        android:text="Deutsch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView48"
+        android:layout_alignRight="@+id/imageView7"
+        android:layout_alignEnd="@+id/imageView7"
+        android:layout_marginRight="12dp"
+        android:layout_marginEnd="12dp"
+        android:id="@+id/textView49" />
+
+    <TextView
+        android:text="Latein"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView49"
+        android:layout_alignRight="@+id/textView49"
+        android:layout_alignEnd="@+id/textView49"
+        android:layout_marginTop="29dp"
+        android:id="@+id/textView50" />
+
+    <TextView
+        android:text="Telefon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView47"
+        android:layout_alignLeft="@+id/textView47"
+        android:layout_alignStart="@+id/textView47"
+        android:layout_marginTop="15dp"
+        android:id="@+id/textView51" />
+
+    <TextView
+        android:text="Orte"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView50"
+        android:layout_alignLeft="@+id/textView48"
+        android:layout_alignStart="@+id/textView48"
+        android:layout_marginTop="49dp"
+        android:id="@+id/textView52" />
+
+    <TextView
+        android:text="Nachhilfe-Schüler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView52"
+        android:layout_alignLeft="@+id/textView52"
+        android:layout_alignStart="@+id/textView52"
+        android:layout_marginTop="38dp"
+        android:id="@+id/textView88" />
+
+    <Button
+        android:text="Schüler"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/textView88"
+        android:layout_alignLeft="@+id/textView88"
+        android:layout_alignStart="@+id/textView88"
+        android:layout_marginTop="15dp"
+        android:id="@+id/button8" />
+
+    <Button
+        android:text="Auswählen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button11"
+        android:layout_alignTop="@+id/button8"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="21dp"
+        android:layout_marginEnd="21dp" />
+
+</RelativeLayout>

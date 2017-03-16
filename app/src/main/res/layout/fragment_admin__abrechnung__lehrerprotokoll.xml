@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ronit.toplearning.AdminClasses.Fragment_Admin_Abrechnung_Lehrerprotokoll">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:text="Einheiten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView72"
+        android:layout_toRightOf="@+id/textView72"
+        android:layout_toEndOf="@+id/textView72"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:id="@+id/textView73" />
+
+
+    <TextView
+        android:text="Uhrzeit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView73"
+        android:layout_toRightOf="@+id/textView73"
+        android:layout_toEndOf="@+id/textView73"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:id="@+id/textView74" />
+
+
+    <TextView
+        android:text="Summe €"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView74"
+        android:layout_toRightOf="@+id/textView74"
+        android:layout_toEndOf="@+id/textView74"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:id="@+id/textView75" />
+
+
+    <TextView
+        android:text="20.12.2016"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView72"
+        android:layout_marginTop="166dp"
+        android:layout_below="@+id/textView78"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp" />
+
+
+    <TextView
+        android:text="Fach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView80"
+        android:layout_alignLeft="@+id/textView75"
+        android:layout_alignStart="@+id/textView75"
+        android:id="@+id/textView81" />
+
+
+    <TextView
+        android:text="Lehrer Protokoll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:layout_marginTop="57dp"
+        android:id="@+id/textView78"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/textView75"
+        android:layout_toStartOf="@+id/textView75" />
+
+    <TextView
+        android:text="Adresse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView80"
+        android:layout_alignBaseline="@+id/button7"
+        android:layout_alignBottom="@+id/button7"
+        android:layout_alignLeft="@+id/textView73"
+        android:layout_alignStart="@+id/textView73"
+        android:layout_marginLeft="34dp"
+        android:layout_marginStart="34dp" />
+
+    <Button
+        android:text="Lehrer Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="11dp"
+        android:background="@android:color/transparent"
+        android:id="@+id/button7"
+        android:layout_above="@+id/textView73"
+        android:layout_alignLeft="@+id/button10"
+        android:layout_alignStart="@+id/button10" />
+
+    <Button
+        android:text="Lehrer Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="11dp"
+        android:background="@android:color/transparent"
+        android:id="@+id/button10"
+        android:layout_marginTop="46dp"
+        android:layout_below="@+id/textView72"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Adresse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView890"
+
+        android:layout_alignBaseline="@+id/button10"
+        android:layout_alignBottom="@+id/button10"
+        android:layout_alignLeft="@+id/textView80"
+        android:layout_alignStart="@+id/textView80" />
+
+    <TextView
+        android:text="Fach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textView851"
+        android:layout_alignBaseline="@+id/textView890"
+        android:layout_alignBottom="@+id/textView890"
+        android:layout_alignLeft="@+id/textView75"
+        android:layout_alignStart="@+id/textView75" />
+
+    <TextView
+        android:text="23.12.2016"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView723"
+
+        android:layout_below="@+id/button10"
+        android:layout_alignRight="@+id/button10"
+        android:layout_alignEnd="@+id/button10" />
+
+    <TextView
+        android:text="Einheiten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textView733"
+        android:layout_alignBaseline="@+id/textView734"
+        android:layout_alignBottom="@+id/textView734"
+        android:layout_alignLeft="@+id/textView73"
+        android:layout_alignStart="@+id/textView73" />
+
+    <TextView
+        android:text="Uhrzeit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textView734"
+        android:layout_alignBaseline="@+id/textView723"
+        android:layout_alignBottom="@+id/textView723"
+        android:layout_alignLeft="@+id/textView74"
+        android:layout_alignStart="@+id/textView74" />
+
+    <TextView
+        android:text="Summe €"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textView725"
+        android:layout_alignBaseline="@+id/textView734"
+        android:layout_alignBottom="@+id/textView734"
+        android:layout_alignLeft="@+id/textView851"
+        android:layout_alignStart="@+id/textView851" />
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_lehrer"
+            android:title="Lehrer" />
+        <item
+            android:id="@+id/nav_manage1111"
+            android:icon="@drawable/ic_menu_weiterleitung"
+            android:title="Lehrer hinzufügen"
+
+            />
+
+        <item
+            android:id="@+id/nav_manage11"
+            android:icon="@drawable/ic_menu_schueler"
+            android:title="Schüler " />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_anfragen"
+            android:title="Anfragen" />
+
+        <item
+            android:id="@+id/nav_slideshow54"
+            android:icon="@drawable/ic_menu_weiterleitung"
+            android:title="Ungelesene Anfragen" />
+
+        <item
+            android:id="@+id/nav_slideshow55"
+            android:icon="@drawable/ic_menu_weiterleitung"
+            android:title="Bestätigte Anfragen" />
+
+        <item
+            android:id="@+id/nav_slideshow56"
+            android:icon="@drawable/ic_menu_weiterleitung"
+            android:title="Abgelehnte Anfragen" />
+
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_kalender"
+            android:title="Nachhilfetermine" />
+        <item
+            android:id="@+id/nav_manage1"
+            android:icon="@drawable/ic_menu_abrechnungen"
+            android:title="Abrechnungen" />
+
+
+
+        <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profil" />
+
+
+        <item
+            android:id="@+id/nav_manage88"
+            android:icon="@drawable/ic_menu_statistik"
+            android:title="Statistik" />
+
+        <item
+            android:id="@+id/nav_manage8855"
+            android:icon="@drawable/ic_menu_kstempel"
+            android:title="Koordinatenstempel" />
+
+        <item
+            android:id="@+id/nav_manage4"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="Logout" />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,7 @@
+#Fri Mar 10 10:45:02 CET 2017
+base.0=C\:\\Users\\Ronit\\AndroidStudioProjects\\TopLearning+\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b25a926ab6507c5522513d3141d58bba6554bd2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ronit\\AndroidStudioProjects\\TopLearning+\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_191042e108e61653b0547395f39b5be9fb77903b\\classes.dex
+base.1=C\:\\Users\\Ronit\\AndroidStudioProjects\\TopLearning+\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_191042e108e61653b0547395f39b5be9fb77903b
+file.0=C\:\\Users\\Ronit\\AndroidStudioProjects\\TopLearning+\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b25a926ab6507c5522513d3141d58bba6554bd2\\classes.dex

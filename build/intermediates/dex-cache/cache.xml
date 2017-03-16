@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a6c694a4049f657fea3ea5ad56830f73658a277a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d7cf717a443a455ad46ec224e1ead7dfdadec9c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_75190a5a32a8f1fb7303466e4de42188e28b1b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_8aa03b2ea19b7eaee3179a1b184f8bb9e34fc870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_63e5299206a4665c83388957bd0103f271a99c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f548fdc7f4f1aa27ccb3f4c3b82c72feb7602900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fbedd3496c4eadb8179467d96cb072eca36dab76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_7dd00f8f92db1c747018425d56eb5f351d8f0f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_16689e5d6a127c27d1827ef4a22e6553b88d97d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_aa92d5a07db9fa9b26452c97f15ee2b3c09a3ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_73a146972f129a8cc51b197cb5eb8f6cf2848a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_537fe6c6a033a8e609ccd1bd7c8e22efd3e6c3c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d945f02fc87018414de41b1f7b4c0ad9b4b09c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_50675b03b9776a9b1b52a9090cbc17606a7cce69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_05789796d22216d8188dbd43b6014dc50814c2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_f94c87ac5af0f99ef0f70d7b3dbac3a104b0e1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_444fb1e6d68f5e7c1aeb75a3c1cbc5e1ffed6114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b280d5cf72233a6b47b047f2061f78d2e803ace6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1cd02ac020b0d8bcc71d355f26017ae0febaaf1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b78563f82481440c79f83d5e53731ff498e6cb1">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_191042e108e61653b0547395f39b5be9fb77903b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_eb07072928f0211cdaebfd8642a088f1db64df99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="11875bb6369817cf2db723d6c9709e69a6cfa7cb">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b25a926ab6507c5522513d3141d58bba6554bd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_48da425a19b58b81740d9b25a225c0256005e032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ronit\AndroidStudioProjects\TopLearning+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_975eb4a2ce6f5139e016fc37edbb77aab948d8a4\classes.dex" />
+    </item>
+
+</items>
